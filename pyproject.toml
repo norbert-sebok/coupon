@@ -1,0 +1,3 @@
+[tool.ruff]
+select = ["C901", "E", "E202", "E203", "F", "I", "W"]
+mccabe.max-complexity = 5
